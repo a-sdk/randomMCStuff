@@ -1,0 +1,44 @@
+{
+	"format_version": 2,
+	  "header": {
+        "description": "Requested By §a@AZSIKKKK",
+	    "name": "Invisible Armor",
+	    "uuid":"922feb7a-db25-4341-8da9-250bd6312d1f",
+	    "version": [1, 0, 0],
+	    "min_engine_version": [1, 17, 0]
+	  },
+	  "modules": [
+	    {
+	      "description": "Requested By §a@AZSIKKKK",
+	      "type": "resources",
+	      "uuid": "7017476a-783a-4558-9b95-110d5f9b0745",
+	      "version": [1, 0, 0]
+	    }
+	  ],
+	  "settings": [
+		{
+			"type": "label",
+			"text": "Kamu bisa pilih antara semua armor jadi invisible atau cuma bagian badan ke bawah (chestplate, legging, boots)."
+		},
+		{
+			"type": "label",
+			"text": "§cCatatan: Leather armor (kulit), elytra dan turtle helmet (helm kura-kura) tidak dibuat invisible."
+		},
+		{
+			"type": "label",
+			"text": "§cTambahan: Overlay armor (contohnya bagian armor kulit yang bisa diwarnai atau armor trim) tidak inivisible."
+		}
+	  ],
+	  "subpacks": [
+		{
+			"folder_name": "subpack_1",
+			"name": "1. Invisible All Armor",
+			"memory_tier": 1
+		},
+		{
+			"folder_name": "subpack_2",
+			"name": "2. Sama tapi helmnya gak invisible",
+			"memory_tier": 1
+		}
+	  ]
+}
