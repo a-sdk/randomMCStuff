@@ -1,4 +1,4 @@
-# randomMCStaff
+# randomMCStuffs
 These are some packs I made, most of them are just unfinished works.
 As long as you give credit and use this GITHUB LINK:
 You're ALLOWED to download, share, modify and use my packs for your personal use.
