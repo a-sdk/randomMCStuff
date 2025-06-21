@@ -1,7 +1,6 @@
 # randomMCStuffs
 These are some packs I made, most of them are just unfinished works.
-As long as you give credit and use this GITHUB LINK:
-You're ALLOWED to download, share, modify and use my packs for your personal use.
-Please don't monetize this link using any link shortener or re-upload my packs anywhere else.
+## This resource pack MAY NOT be distributed on other websites or apps (No Custom Download Links).
+You're ALLOWED to download, modify and use my packs for your personal or commercial use.
 
-Thank you for your understanding, enjoy the packs :D
+## Enjoy the packs :D
